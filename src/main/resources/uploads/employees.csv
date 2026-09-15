@@ -1,0 +1,5 @@
+name,email,mobile,salary,password,departmentId
+Sachin,sachin@gmail.com,9876543456,50000,password123,1
+Rahul,rahul@gmail.com,9876543211,55000,password123,1
+Amit,amit@gmail.com,9876543782,60000,password123,2
+Priya,priya@gmail.com,9876543513,65000,password123,2
